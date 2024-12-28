@@ -1,4 +1,4 @@
-# Can I Fly
+## Can I Fly
 
 [![Latest Release](https://img.shields.io/github/v/release/guarzo/canifly)](https://github.com/guarzo/canifly/releases/latest)
 [![Build & Test](https://github.com/guarzo/canifly/actions/workflows/test.yml/badge.svg)](https://github.com/guarzo/canifly/actions/workflows/test.yaml)
