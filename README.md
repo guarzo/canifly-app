@@ -1,11 +1,16 @@
-## Can I Fly
+# Can I Fly
 
-[![Latest Release](https://img.shields.io/github/v/release/guarzo/canifly)](https://github.com/guarzo/canifly/releases/latest)
-[![Build & Test](https://github.com/guarzo/canifly/actions/workflows/test.yml/badge.svg)](https://github.com/guarzo/canifly/actions/workflows/test.yaml)
+[![Latest Release](https://img.shields.io/github/v/release/guarzo/canifly-app)](https://github.com/guarzo/canifly-app/releases/latest)
+[![Build & Test](https://github.com/guarzo/canifly-app/actions/workflows/test.yml/badge.svg)](https://github.com/guarzo/canifly-app/actions/workflows/test.yaml)
 
 ## Overview
 
 **Can I Fly** is an application that helps EVE Online players quickly determine which ships their characters can pilot and what training they need to reach their goals. By integrating directly with EVE's APIs, **Can I Fly** lets you manage characters, skill plans, and account mappings from a single, intuitive interface. The tool also helps you configure local EVE profiles, sync settings, and back up or restore them effortlessly.
+
+# Example
+
+[![Watch a demo](https://www.youtube.com/watch?v=9yTI2OQx6gk/0.jpg)](https://www.youtube.com/watch?v=9yTI2OQx6gk)
+
 
 ## Key Features
 
