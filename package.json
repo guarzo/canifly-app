@@ -1,6 +1,6 @@
 {
   "name": "canifly",
-  "version": "0.0.56",
+  "version": "0.0.57",
   "description": "Can I Fly?",
   "main": "main.js",
   "scripts": {
